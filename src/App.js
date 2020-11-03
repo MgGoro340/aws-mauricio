@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          aws - mauricio - otro branch Amplify!!!!!!!
+          aws - mauricio - otro branch Amplify - modificado!!!!!!!
         </p>
 
       </header>
